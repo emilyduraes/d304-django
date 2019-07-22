@@ -1,0 +1,5 @@
+ambiente
+.vscode 
+proj/home/__pychache__
+proj/proj/__pychache__
+proj/db.sqlite3
